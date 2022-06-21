@@ -4,6 +4,8 @@ This is the script run the latest version of NGINX and will bind a folder on you
 you're on a UNIX based machine (Mac or Linux), you can copy and paste the following code in your terminal. Make sure that you navigate to the folder that your 
 website is in, or update the 5th line to be source="$(pwd)"/folder_name
 
+The tutorial video can be found here:
+[YouTube video](https://www.youtube.com/watch?v=buY6xBVVmQ0)
 
 # The Code:
 
